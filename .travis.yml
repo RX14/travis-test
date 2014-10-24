@@ -1,0 +1,9 @@
+---
+language: ruby
+jdk:
+    - openjdk7
+    - oraclejdk7
+    - oraclejdk8
+env:
+    - JRUBY_OPTS=--2.0
+    - JRUBY_OPTS=""
